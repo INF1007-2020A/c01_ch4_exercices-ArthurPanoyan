@@ -5,9 +5,9 @@
 def is_even_len(string: str) -> bool:
     return len(string) % 2 == 0
 
-ch = "bonjour"
+
 def remove_third_char(string: str) -> str:
-    return ""
+    return string
 
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
